@@ -38,7 +38,7 @@ const Header = () => {
           <div className="flex lg:flex-1 items-center gap-5">
             <img
               alt=""
-              src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
+              src="/public/favicon-32x32.png"
               className="h-8 w-auto"
             />
             <span className="text-3xl">Hasanali </span>
