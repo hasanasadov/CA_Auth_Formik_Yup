@@ -1,7 +1,7 @@
 const express = require("express");
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
-const users = require("../users");
+const users = require("./users");
 const cors = require("cors");
 const { v4: uuidv4 } = require("uuid");
 
